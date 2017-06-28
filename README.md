@@ -1,2 +1,2 @@
-# admin-laravel
-this is base function which is admin
+# laravel-qiniu
+基于七牛云存储的上传扩展包
