@@ -1,5 +1,5 @@
 {
-    "name": "PKzhilong/laravel-qiniu",
+    "name": "pk-zhilong/laravel-qiniu",
     "description": "this is upload package which is base in qiniu",
     "require": {
         "qiniu/php-sdk": "^7.1"
