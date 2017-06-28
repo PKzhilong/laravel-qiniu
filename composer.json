@@ -1,0 +1,20 @@
+{
+    "name": "xingzhilong/laravel-qiniu",
+    "description": "this is upload package which is base in qiniu",
+    "require": {
+        "qiniu/php-sdk": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingzhilong",
+            "email": "339191949@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Laravel\\QiNiu\\": "./src"
+        }
+    },
+    "minimum-stability": "dev"
+}
