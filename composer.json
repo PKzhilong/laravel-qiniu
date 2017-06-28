@@ -2,7 +2,8 @@
     "name": "pk-zhilong/laravel-qiniu",
     "description": "this is upload package which is base in qiniu",
     "require": {
-        "qiniu/php-sdk": "^7.1"
+        "qiniu/php-sdk": "^7.1",
+        "pk-zhilong/laravel-qiniu": "*"
     },
     "license": "MIT",
     "authors": [
@@ -15,5 +16,6 @@
         "psr-4": {
             "Laravel\\QiNiu\\": "./src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
