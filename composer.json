@@ -15,6 +15,5 @@
         "psr-4": {
             "Laravel\\QiNiu\\": "./src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
