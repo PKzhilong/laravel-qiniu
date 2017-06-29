@@ -17,5 +17,5 @@
             "Laravel\\QiNiu\\": "./src"
         }
     },
-    "minimum-stability": "1.0"
+    "minimum-stability": "stable"
 }
